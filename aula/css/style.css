@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: blue
+}
+
+h2 {
+    color: blueviolet
+}
+
+h3 {
+    color:palevioletred
+}
+
+# {
+    color:rgb(255, 0, 140)
+}
+
+#hero li {
+    color: green
+}
+#vilan li {
+    color: red
+}
